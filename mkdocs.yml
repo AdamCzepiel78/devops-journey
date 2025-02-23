@@ -1,8 +1,13 @@
 site_name: Devops Journey Docs
 nav: 
   - Home: index.md
-  - About: about.md
-  - Contact: beta.md
+  - Cloud:
+    - AWS: 
+      - Index: cloud/aws/index.md
+  - Kubernetes:
+    - Index: kubernetes/index.md 
+  - Pipelines:
+    - Index: pipelines/index.md
 theme:
   name: readthedocs
   palette:
