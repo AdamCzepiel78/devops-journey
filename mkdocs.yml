@@ -1,0 +1,13 @@
+site_name: Devops Journey Docs
+nav: 
+  - Home: index.md
+  - About: about.md
+  - Contact: beta.md
+theme:
+  name: readthedocs
+  palette:
+    primary: 'indigo'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
