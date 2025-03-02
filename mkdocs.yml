@@ -9,7 +9,7 @@ nav:
   - Pipelines:
     - Index: pipelines/index.md
 theme:
-  name: readthedocs
+  name: material
   palette:
     primary: 'indigo'
     accent: 'pink'
